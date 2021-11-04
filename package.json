@@ -1,0 +1,16 @@
+{
+  "name": "select",
+  "version": "1.0.0",
+  "description": "select plugin",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Valery Mikhailov <va1eonmix@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0",
+    "parcel": "^2.0.0"
+  }
+}
